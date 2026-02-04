@@ -82,5 +82,5 @@ To run the notebook locally:
 ## Author
 
 **Bencomo Vega**  
-Data Analyst | Data Science Engineering student  
+Data Analyst 
 [LinkedIn](https://www.linkedin.com/)
